@@ -1,3 +1,3 @@
 # Demo
 
-Amal is a ECE student
+Amal is a cse student
